@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessicaeverard
-- 👀 I’m interested in everything to do with computers!
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m interested in Python and PHP
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking for more experience
 - 📫 How to reach me: email - jesseverard21@gmail.com
 
 <!---
