@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicaeverard
-- 👀 I’m interested in Python and PHP
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking for more experience
 - 📫 How to reach me: email - jesseverard21@gmail.com
