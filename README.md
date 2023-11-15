@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicaeverard
 - 👀 I’m interested in Python and I love working with APIs
-- 🌱 I currently finished a level 4 Software Developer apprenticeship 
+- 🌱 I am currently enrolled in a Azure developer bootcamp
 - 💞️ I’m looking for more experience
 - 📫 How to reach me: email - jesseverard21@gmail.com
 
